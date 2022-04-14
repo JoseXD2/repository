@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TV static.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TV static0000" x="0" y="0" width="468" height="372" pivotX="217.7" pivotY="189.55"/>
+	<SubTexture name="TV static0001" x="468" y="0" width="468" height="372"/>
+	<SubTexture name="TV static0002" x="936" y="0" width="468" height="372"/>
+	<SubTexture name="TV static0003" x="1404" y="0" width="468" height="372"/>
+	<SubTexture name="TV static0004" x="0" y="372" width="468" height="372"/>
+	<SubTexture name="TV static0005" x="468" y="372" width="468" height="372"/>
+	<SubTexture name="TV static0006" x="936" y="372" width="468" height="372"/>
+	<SubTexture name="TV static0007" x="1404" y="372" width="468" height="372"/>
+	<SubTexture name="TV static0008" x="0" y="744" width="468" height="372"/>
+	<SubTexture name="TV static0009" x="468" y="744" width="468" height="372"/>
+	<SubTexture name="TV static0010" x="936" y="744" width="468" height="372"/>
+	<SubTexture name="TV static0011" x="1404" y="744" width="468" height="372"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cool.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EASY0000" x="0" y="0" width="196" height="65"/>
+	<SubTexture name="HARD0000" x="246" y="0" width="211" height="67"/>
+	<SubTexture name="NORMAL0000" x="0" y="117" width="308" height="67"/>
+	<SubTexture name="right arrow0000" x="358" y="117" width="61" height="80"/>
+	<SubTexture name="left arrow0000" x="180" y="247" width="61" height="80"/>
+	<SubTexture name="lock0000" x="0" y="247" width="130" height="222"/>
+</TextureAtlas>

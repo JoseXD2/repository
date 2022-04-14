@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteSplashes.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down 10000" x="0" y="0" width="182" height="189"/>
+	<SubTexture name="down 10001" x="232" y="0" width="182" height="189"/>
+	<SubTexture name="down 10002" x="464" y="0" width="182" height="189"/>
+	<SubTexture name="down 10003" x="696" y="0" width="182" height="189"/>
+	<SubTexture name="down 10004" x="928" y="0" width="182" height="189"/>
+	<SubTexture name="down 10005" x="928" y="0" width="182" height="189"/>
+	<SubTexture name="down 10006" x="928" y="0" width="182" height="189"/>
+	<SubTexture name="down 10007" x="928" y="0" width="182" height="189"/>
+	<SubTexture name="down 10008" x="928" y="0" width="182" height="189"/>
+	<SubTexture name="down 10009" x="928" y="0" width="182" height="189"/>
+	<SubTexture name="down 10010" x="928" y="0" width="182" height="189"/>
+	<SubTexture name="down 10011" x="928" y="0" width="182" height="189"/>
+	<SubTexture name="down 10012" x="928" y="0" width="182" height="189"/>
+	<SubTexture name="down 10013" x="928" y="0" width="182" height="189"/>
+	<SubTexture name="down 10014" x="928" y="0" width="182" height="189"/>
+	<SubTexture name="down 10015" x="928" y="0" width="182" height="189"/>
+	<SubTexture name="down 10016" x="928" y="0" width="182" height="189"/>
+	<SubTexture name="down 20000" x="1160" y="0" width="173" height="174"/>
+	<SubTexture name="down 20001" x="1383" y="0" width="173" height="174"/>
+	<SubTexture name="down 20002" x="1606" y="0" width="173" height="174"/>
+	<SubTexture name="down 20003" x="1829" y="0" width="173" height="174"/>
+	<SubTexture name="left 10000" x="0" y="239" width="182" height="189"/>
+	<SubTexture name="left 10001" x="232" y="239" width="182" height="189"/>
+	<SubTexture name="left 10002" x="464" y="239" width="182" height="189"/>
+	<SubTexture name="left 10003" x="696" y="239" width="182" height="189"/>
+	<SubTexture name="left 20000" x="928" y="239" width="173" height="174"/>
+	<SubTexture name="left 20001" x="1151" y="239" width="173" height="174"/>
+	<SubTexture name="left 20002" x="1374" y="239" width="173" height="174"/>
+	<SubTexture name="left 20003" x="1597" y="239" width="173" height="174"/>
+	<SubTexture name="right 10000" x="1820" y="239" width="182" height="189"/>
+	<SubTexture name="right 10001" x="0" y="478" width="182" height="189"/>
+	<SubTexture name="right 10002" x="232" y="478" width="182" height="189"/>
+	<SubTexture name="right 10003" x="464" y="478" width="182" height="189"/>
+	<SubTexture name="right 20000" x="696" y="478" width="173" height="174"/>
+	<SubTexture name="right 20001" x="919" y="478" width="173" height="174"/>
+	<SubTexture name="right 20002" x="1142" y="478" width="173" height="174"/>
+	<SubTexture name="right 20003" x="1365" y="478" width="173" height="174"/>
+	<SubTexture name="up 10000" x="1588" y="478" width="182" height="189"/>
+	<SubTexture name="up 10001" x="1820" y="478" width="182" height="189"/>
+	<SubTexture name="up 10002" x="0" y="717" width="182" height="189"/>
+	<SubTexture name="up 10003" x="232" y="717" width="182" height="189"/>
+	<SubTexture name="up 20000" x="464" y="717" width="173" height="174"/>
+	<SubTexture name="up 20001" x="687" y="717" width="173" height="174"/>
+	<SubTexture name="up 20002" x="910" y="717" width="173" height="174"/>
+	<SubTexture name="up 20003" x="1133" y="717" width="173" height="174"/>
+</TextureAtlas>

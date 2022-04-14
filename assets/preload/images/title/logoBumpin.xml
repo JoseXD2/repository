@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bump 0000" x="0" y="0" width="998" height="574" pivotX="507.45" pivotY="293.95" frameX="-6" frameY="-3" frameWidth="1010" frameHeight="580"/>
+	<SubTexture name="Bump 0001" x="998" y="0" width="1010" height="580"/>
+	<SubTexture name="Bump 0002" x="0" y="580" width="968" height="556" frameX="-21" frameY="-12" frameWidth="1010" frameHeight="580"/>
+	<SubTexture name="Bump 0003" x="968" y="580" width="954" height="548" frameX="-28" frameY="-16" frameWidth="1010" frameHeight="580"/>
+	<SubTexture name="Bump 0004" x="0" y="1136" width="942" height="541" frameX="-34" frameY="-19" frameWidth="1010" frameHeight="580"/>
+	<SubTexture name="Bump 0005" x="0" y="1136" width="942" height="541" frameX="-34" frameY="-19" frameWidth="1010" frameHeight="580"/>
+	<SubTexture name="Bump 0006" x="0" y="1136" width="942" height="541" frameX="-34" frameY="-19" frameWidth="1010" frameHeight="580"/>
+	<SubTexture name="Bump 0007" x="0" y="1136" width="942" height="541" frameX="-34" frameY="-19" frameWidth="1010" frameHeight="580"/>
+	<SubTexture name="Bump 0008" x="0" y="1136" width="942" height="541" frameX="-34" frameY="-19" frameWidth="1010" frameHeight="580"/>
+	<SubTexture name="Bump 0009" x="0" y="1136" width="942" height="541" frameX="-34" frameY="-19" frameWidth="1010" frameHeight="580"/>
+	<SubTexture name="Bump 0010" x="0" y="1136" width="942" height="541" frameX="-34" frameY="-19" frameWidth="1010" frameHeight="580"/>
+	<SubTexture name="Bump 0011" x="0" y="1136" width="942" height="541" frameX="-34" frameY="-19" frameWidth="1010" frameHeight="580"/>
+	<SubTexture name="Bump 0012" x="0" y="1136" width="942" height="541" frameX="-34" frameY="-19" frameWidth="1010" frameHeight="580"/>
+</TextureAtlas>

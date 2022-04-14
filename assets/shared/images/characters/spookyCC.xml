@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spooky cc.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dancing furry0000" x="0" y="0" width="365" height="613" pivotX="189.95" pivotY="304.1" frameX="-28" frameY="-5" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0001" x="365" y="0" width="376" height="611" frameX="-22" frameY="-7" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0002" x="741" y="0" width="385" height="596" frameX="-18" frameY="-22" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0003" x="1126" y="0" width="394" height="588" frameX="-14" frameY="-29" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0004" x="1520" y="0" width="402" height="576" frameX="-11" frameY="-41" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0005" x="1922" y="0" width="409" height="575" frameX="-6" frameY="-42" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0006" x="2331" y="0" width="414" height="571" frameX="-4" frameY="-45" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0007" x="2745" y="0" width="420" height="575" frameX="-1" frameY="-41" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0008" x="3165" y="0" width="422" height="572" frameX="0" frameY="-44" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0009" x="3587" y="0" width="422" height="571" frameX="0" frameY="-45" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0010" x="0" y="613" width="422" height="584" frameX="0" frameY="-32" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0011" x="422" y="613" width="410" height="597" frameX="-6" frameY="-21" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0012" x="832" y="613" width="367" height="601" frameX="-28" frameY="-17" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0013" x="1199" y="613" width="351" height="618" frameX="-36" frameY="-1" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0014" x="1550" y="613" width="363" height="616" frameX="-29" frameY="-2" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0015" x="1913" y="613" width="365" height="615" frameX="-28" frameY="-4" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0016" x="2278" y="613" width="365" height="619" frameX="-28" frameY="0" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0017" x="2643" y="613" width="365" height="616" frameX="-28" frameY="-3" frameWidth="422" frameHeight="619"/>
+	<SubTexture name="dancing furry0018" x="3008" y="613" width="365" height="617" frameX="-28" frameY="-2" frameWidth="422" frameHeight="619"/>
+</TextureAtlas>

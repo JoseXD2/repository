@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteSplashes-gray.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="left 10000" x="0" y="0" width="172" height="173"/>
+	<SubTexture name="left 10001" x="222" y="0" width="172" height="173"/>
+	<SubTexture name="left 10002" x="444" y="0" width="172" height="173"/>
+	<SubTexture name="left 10003" x="666" y="0" width="172" height="173"/>
+	<SubTexture name="left 20000" x="0" y="223" width="181" height="188"/>
+	<SubTexture name="left 20001" x="231" y="223" width="181" height="188"/>
+	<SubTexture name="left 20002" x="462" y="223" width="181" height="188"/>
+	<SubTexture name="left 20003" x="693" y="223" width="181" height="188"/>
+	<SubTexture name="down 10000" x="0" y="0" width="172" height="173"/>
+	<SubTexture name="down 10001" x="222" y="0" width="172" height="173"/>
+	<SubTexture name="down 10002" x="444" y="0" width="172" height="173"/>
+	<SubTexture name="down 10003" x="666" y="0" width="172" height="173"/>
+	<SubTexture name="down 20000" x="0" y="223" width="181" height="188"/>
+	<SubTexture name="down 20001" x="231" y="223" width="181" height="188"/>
+	<SubTexture name="down 20002" x="462" y="223" width="181" height="188"/>
+	<SubTexture name="down 20003" x="693" y="223" width="181" height="188"/>
+	<SubTexture name="up 10000" x="0" y="0" width="172" height="173"/>
+	<SubTexture name="up 10001" x="222" y="0" width="172" height="173"/>
+	<SubTexture name="up 10002" x="444" y="0" width="172" height="173"/>
+	<SubTexture name="up 10003" x="666" y="0" width="172" height="173"/>
+	<SubTexture name="up 20000" x="0" y="223" width="181" height="188"/>
+	<SubTexture name="up 20001" x="231" y="223" width="181" height="188"/>
+	<SubTexture name="up 20002" x="462" y="223" width="181" height="188"/>
+	<SubTexture name="up 20003" x="693" y="223" width="181" height="188"/>
+	<SubTexture name="right 10000" x="0" y="0" width="172" height="173"/>
+	<SubTexture name="right 10001" x="222" y="0" width="172" height="173"/>
+	<SubTexture name="right 10002" x="444" y="0" width="172" height="173"/>
+	<SubTexture name="right 10003" x="666" y="0" width="172" height="173"/>
+	<SubTexture name="right 20000" x="0" y="223" width="181" height="188"/>
+	<SubTexture name="right 20001" x="231" y="223" width="181" height="188"/>
+	<SubTexture name="right 20002" x="462" y="223" width="181" height="188"/>
+	<SubTexture name="right 20003" x="693" y="223" width="181" height="188"/>
+</TextureAtlas>

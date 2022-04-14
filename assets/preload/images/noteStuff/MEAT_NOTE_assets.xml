@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MEAT_NOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down meat note0000" x="0" y="0" width="157" height="170" pivotX="3.45" pivotY="6.3" frameX="0" frameY="-4" frameWidth="157" frameHeight="182"/>
+	<SubTexture name="down meat note0001" x="0" y="0" width="157" height="170" frameX="0" frameY="-4" frameWidth="157" frameHeight="182"/>
+	<SubTexture name="down meat note0002" x="157" y="0" width="155" height="174" frameX="-1" frameY="-3" frameWidth="157" frameHeight="182"/>
+	<SubTexture name="down meat note0003" x="312" y="0" width="153" height="179" frameX="-2" frameY="-1" frameWidth="157" frameHeight="182"/>
+	<SubTexture name="down meat note0004" x="465" y="0" width="153" height="182" frameX="-2" frameY="0" frameWidth="157" frameHeight="182"/>
+	<SubTexture name="down meat note0005" x="465" y="0" width="153" height="182" frameX="-2" frameY="0" frameWidth="157" frameHeight="182"/>
+	<SubTexture name="left meat note0000" x="618" y="0" width="167" height="178" pivotX="9.25" pivotY="-0.75" frameX="0" frameY="-2" frameWidth="167" frameHeight="185"/>
+	<SubTexture name="left meat note0001" x="618" y="0" width="167" height="178" frameX="0" frameY="-2" frameWidth="167" frameHeight="185"/>
+	<SubTexture name="left meat note0002" x="785" y="0" width="165" height="181" frameX="-1" frameY="-1" frameWidth="167" frameHeight="185"/>
+	<SubTexture name="left meat note0003" x="0" y="182" width="163" height="183" frameX="-2" frameY="-1" frameWidth="167" frameHeight="185"/>
+	<SubTexture name="left meat note0004" x="163" y="182" width="162" height="185" frameX="-3" frameY="0" frameWidth="167" frameHeight="185"/>
+	<SubTexture name="left meat note0005" x="163" y="182" width="162" height="185" frameX="-3" frameY="0" frameWidth="167" frameHeight="185"/>
+	<SubTexture name="right meat note0000" x="325" y="182" width="158" height="171" pivotX="2.8" pivotY="9.1" frameX="0" frameY="-3" frameWidth="158" frameHeight="179"/>
+	<SubTexture name="right meat note0001" x="325" y="182" width="158" height="171" frameX="0" frameY="-3" frameWidth="158" frameHeight="179"/>
+	<SubTexture name="right meat note0002" x="483" y="182" width="156" height="175" frameX="-1" frameY="-1" frameWidth="158" frameHeight="179"/>
+	<SubTexture name="right meat note0003" x="639" y="182" width="154" height="177" frameX="-2" frameY="-1" frameWidth="158" frameHeight="179"/>
+	<SubTexture name="right meat note0004" x="793" y="182" width="153" height="179" frameX="-2" frameY="0" frameWidth="158" frameHeight="179"/>
+	<SubTexture name="right meat note0005" x="793" y="182" width="153" height="179" frameX="-2" frameY="0" frameWidth="158" frameHeight="179"/>
+	<SubTexture name="up meat note0000" x="0" y="367" width="166" height="172" pivotX="6.75" pivotY="6.9" frameX="0" frameY="-1" frameWidth="166" frameHeight="178"/>
+	<SubTexture name="up meat note0001" x="0" y="367" width="166" height="172" frameX="0" frameY="-1" frameWidth="166" frameHeight="178"/>
+	<SubTexture name="up meat note0002" x="166" y="367" width="166" height="174" frameX="0" frameY="-1" frameWidth="166" frameHeight="178"/>
+	<SubTexture name="up meat note0003" x="332" y="367" width="164" height="177" frameX="-1" frameY="0" frameWidth="166" frameHeight="178"/>
+	<SubTexture name="up meat note0004" x="496" y="367" width="162" height="178" frameX="-2" frameY="0" frameWidth="166" frameHeight="178"/>
+	<SubTexture name="up meat note0005" x="496" y="367" width="162" height="178" frameX="-2" frameY="0" frameWidth="166" frameHeight="178"/>
+</TextureAtlas>
